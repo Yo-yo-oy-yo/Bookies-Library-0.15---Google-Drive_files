@@ -1,0 +1,38 @@
+[
+  {
+    "applyTo": "log%3Fformat=json&hasfast=true&authuser=1",
+    "headers": [
+      {
+        "name": "header-name",
+        "value": "header value"
+      }
+    ]
+  },
+  {
+    "applyTo": "*",
+    "headers": [
+      {
+        "name": "header-name-1",
+        "value": "header value"
+      }
+    ]
+  },
+  {
+    "applyTo": "log%3Fformat=json&hasfast=true&authuser=1",
+    "headers": [
+      {
+        "name": "header-name",
+        "value": "header value"
+      }
+    ]
+  },
+  {
+    "applyTo": "*",
+    "headers": [
+      {
+        "name": "header-name-1",
+        "value": "header value"
+      }
+    ]
+  }
+]
